@@ -1,0 +1,1 @@
+export default function CTA() { return <div className="py-20 text-center bg-slate-900 text-white font-black rounded-3xl m-6">Ready to Win? Start Trial.</div> }
